@@ -45,6 +45,5 @@ The setup phase initializes pins 3, 5, 6, and 9 with an extended pulse range of 
 
 ## Simulation Demo
 This project was fully designed, coded, and validated using the Tinkercad simulation environment.
-
-
+- **[Watch / Download the Simulation Video](4_servo_motors_sweeping_simulation%20-%20Tinkercad%20-%20.mp4)**
 
