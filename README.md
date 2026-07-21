@@ -14,7 +14,7 @@
 
 ## Repository Contents
 * **`4_servo_motor.ino`**
-* **`Circuit design Editing Components - Tinkercad - Personal - Microsoft​ Edge 2026-07-21 21-43-37`**
+* **`4_servo_motors_sweeping_simulation - Tinkercad - `**
 * **`README.md`** 
 ---
 
