@@ -14,7 +14,7 @@
 
 ## Repository Contents
 * **`4_servo_motor.ino`**
-* **`4_servo_motors_sweeping_simulation - Tinkercad - `**
+* **`4_servo_motors_sweeping_simulation - Tinkercad - .mp4`**
 * **`README.md`** 
 ---
 
@@ -45,5 +45,6 @@ The setup phase initializes pins 3, 5, 6, and 9 with an extended pulse range of 
 
 ## Simulation Demo
 This project was fully designed, coded, and validated using the Tinkercad simulation environment.
-- **[Watch / Download the Simulation Video](4_servo_motors_sweeping_simulation%20-%20Tinkercad%20-%20.mp4)**
+
+<img width="800" height="470" alt="4_servo_motors_sweeping_simulation-Tinkercad--ezgif com-optimize" src="https://github.com/user-attachments/assets/a60ee0a2-3d5b-4c88-843b-544dc268b7ba" />
 
