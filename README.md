@@ -3,10 +3,15 @@
 ---
 
 ## Table of Contents
-- [Task Overview](#task-overview)
-- [Technical Specifications](#technical-specifications)
-- [Code Logic](#code-logic)
-- [Simulation Environment](#simulation-environment)
+- Repository Contents
+- Task Overview
+- Technical Specifications
+- Circuit Connection
+- Code Logic
+- Simulation Demo
+
+---
+
 
 ---
 
