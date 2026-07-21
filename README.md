@@ -13,10 +13,9 @@
 ---
 
 ## Repository Contents
-* **`robotic_dog.scad`** – The primary OpenSCAD source code containing the parameterized geometric design.
-* **`robotic_dog.stl`** – The exported 3D model file ready for 3D printing or physics simulation.
-* **`README.md`** – Main documentation file explaining the design architecture and mechanics.
-
+* **`4_servo_motor.ino`**
+* **`Circuit design Editing Components - Tinkercad - Personal - Microsoft​ Edge 2026-07-21 21-43-37`**
+* **`README.md`** 
 ---
 
 ## Task Overview
